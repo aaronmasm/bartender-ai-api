@@ -13,7 +13,6 @@ Este proyecto está construido con React 18, TypeScript y Vite, estilado con Tai
 - Variables de entorno
 - Estructura del proyecto
 - Puntos de entrada (entry points)
-- Tests
 - Licencia
 
 ## Visión general
@@ -109,14 +108,7 @@ Raíz relevante:
 - Build: `npm run build` genera la carpeta `dist/`.
 - Preview del build: `npm run preview`.
 
-## Tests
-- No se encontraron tests configurados en el repositorio.
-- TODO: Añadir framework de tests (por ejemplo, Vitest + React Testing Library) y configurar `npm test`.
 
 ## Licencia
-- No se ha encontrado un archivo de licencia en el repositorio.
-- TODO: Añadir una licencia (por ejemplo, MIT) o especificar la licencia deseada en un archivo `LICENSE`.
+Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
 
-## Notas adicionales
-- Este README reemplaza el README de plantilla de Vite para reflejar la implementación real del proyecto.
-- Si actualizas rutas, modelos de IA, o dependencias principales, recuerda actualizar este README.
